@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="manifest" type="Manifest" />
       <mapping pattern="Test_DE.csv" type="PLAIN_TEXT" />
       <mapping ext="pro" type="PLAIN_TEXT" />
